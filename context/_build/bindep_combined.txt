@@ -1,0 +1,2 @@
+subversion [platform: rpm]  # from collection user
+subversion [platform: dpkg]  # from collection user

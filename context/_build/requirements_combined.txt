@@ -1,0 +1,6 @@
+awxkit>=13.0.0  # from collection user
+boto>=2.49.0  # from collection user
+botocore>=1.12.249  # from collection user
+boto3>=1.9.249  # from collection user
+openshift>=0.6.2  # from collection user
+requests-oauthlib  # from collection user
